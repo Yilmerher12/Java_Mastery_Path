@@ -48,4 +48,4 @@ The String Pool is a specialized area **within the Heap** used for **String Inte
 * **References:** The Stack holds the **Address** (e.g., `0x777`), while the Heap holds the **Object Data**.
 * 
 ## 6. Code Example
-* [Technical Implementation of Memory Concepts](./MemoryDeepDive/src/Main.java)
+* [Technical Implementation of Memory Concepts](../Memory_Management/MemoryDeepDive/src/Main.java)
