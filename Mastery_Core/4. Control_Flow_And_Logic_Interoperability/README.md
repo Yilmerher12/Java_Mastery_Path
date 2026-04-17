@@ -80,5 +80,5 @@ int priority = switch (status) {
 ```
 
 
-## 6. Code Example
+## 5. Code Example
 * [Technical Implementation of Control Flow](./MemoryDeepDive/src/Main.java)
