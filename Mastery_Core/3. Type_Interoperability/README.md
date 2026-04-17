@@ -62,3 +62,6 @@ You cannot compare two different Wrapper types (e.g., `Integer` vs `Long`) using
 1. **Prefer Primitives for Logic:** Use `int`, `double`, etc., for loops and calculations to avoid the overhead of constant boxing/unboxing.
 2. **Use Wrappers for Collections:** `List<Integer>`, `Map<String, Boolean>`, etc., require Wrappers.
 3. **Database Nullability:** Use Wrappers when a value from a database can be `null`. A primitive `int` cannot represent a "missing" value; an `Integer` can.
+
+## 6. Code Resources
+* [Technical Implementation of type interoperability](../3.%20Type_Interoperability/WrapperDeepDive/src/Main.java)
