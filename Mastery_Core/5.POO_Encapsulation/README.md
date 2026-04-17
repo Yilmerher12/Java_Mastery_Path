@@ -36,3 +36,6 @@ Since Java handles objects by **Reference** ([watch the transfer_Mechanism modul
 | **Attribute** | State | `private` | Only via methods |
 | **Signature** | Contract | `public` | NO (Breaks Contract) |
 | **Body** | Logic | Hidden | YES (Encapsulated) |
+
+## 5. Code Resources
+* [Technical Implementation of Encapsulation](../5.POO_Encapsulation/EncapsulatioChallenge/src/Main.java)
