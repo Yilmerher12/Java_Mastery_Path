@@ -35,16 +35,16 @@ La organización de esta carpeta responde a tres necesidades principales:
 ### 📂 Estructura del Repositorio
 El curso está organizado por días. Cada carpeta de "DayXX" contiene ejercicios independientes tratados como módulos de IntelliJ para asegurar que cada uno sea ejecutable por separado.
 
-| Carpeta   | Descripción                                                                           |
-|:----------|:--------------------------------------------------------------------------------------|
-| **Day05** | Primer Vistazo con java y el ejercicio BudgetTrackerPlus                              |
-| **Day06** | Estructuras de control - Condicionales / Ejercicios ChatBox y GalaxyWeatherAdvisor    |
-| **Day07** | Estructura Switch  / Ejercicios Adventure Game                                        |
-| **Day08** | Estructuras Ciclicas (Bucles) / Ejercicios Fibonacci Sequence y PiramideGame          |
-| **Day09** | Array Collections / Shuffle Array                                                     |
-| **Day10** | Multidimensional Arrays - 2D Arrays - ArrayList / Diagonal Sum y SpaceTravelSimulator |
-| **Day11** | Switch Statements / Ejercicios Adventure Game                                         |
-| **Day12** | Switch Statements / Ejercicios Adventure Game                                         |
+| Carpeta   | Descripción                                                                                      |
+|:----------|:-------------------------------------------------------------------------------------------------|
+| **Day05** | Primer Vistazo con java y el ejercicio BudgetTrackerPlus                                         |
+| **Day06** | Estructuras de control - Condicionales / Ejercicios ChatBox y GalaxyWeatherAdvisor               |
+| **Day07** | Estructura Switch  / Ejercicios Adventure Game                                                   |
+| **Day08** | Estructuras Ciclicas (Bucles) / Ejercicios Fibonacci Sequence y PiramideGame                     |
+| **Day09** | Array Collections / Ejercicio Shuffle Array                                                      |
+| **Day10** | Multidimensional Arrays - 2D Arrays - ArrayList / Ejercicios Diagonal Sum y SpaceTravelSimulator |
+| **Day11** | Methods and their uses / Ejercicios Email Validator y ScrambledGame                              |
+| **Day12** | Recursive methods and call stacks / Ejercicios Encoder-DecoderGame y MagicMirror game            |
 
 ---
 *Hecho con dedicación por [Yilmer Hernandez Camargo](https://github.com/Yilmerher12)*
