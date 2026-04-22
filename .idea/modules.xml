@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Udemy_Course/Day12/EncoderDecoderGame/EncoderDecoderGame.iml" filepath="$PROJECT_DIR$/Udemy_Course/Day12/EncoderDecoderGame/EncoderDecoderGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Learning_Path.iml" filepath="$PROJECT_DIR$/Java_Learning_Path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy_Course/Day12/MagicMirror/MagicMirror.iml" filepath="$PROJECT_DIR$/Udemy_Course/Day12/MagicMirror/MagicMirror.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mastery_Core/7. POO_Polymorphism/PolymorphismExercise/PolymorphismExercise.iml" filepath="$PROJECT_DIR$/Mastery_Core/7. POO_Polymorphism/PolymorphismExercise/PolymorphismExercise.iml" />
     </modules>
   </component>
 </project>
